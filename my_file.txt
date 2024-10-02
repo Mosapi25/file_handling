@@ -1,0 +1,6 @@
+Hello, World!
+This is line number 2.
+The answer is 42.
+Appending this line to the file.
+Here is another appended line.
+And one more for good measure.
